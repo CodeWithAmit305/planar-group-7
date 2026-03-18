@@ -1,0 +1,14 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='160' height='220' viewBox='0 0 160 220'>
+  <ellipse cx='82' cy='48' rx='20' ry='23' fill='#f0d0bf'/>
+  <path d='M64 43 C70 18 108 16 111 48 C102 36 85 32 64 43 Z' fill='#13222e'/>
+  <rect x='58' y='68' width='48' height='50' rx='18' fill='#e6f1ff'/>
+  <path d='M46 84 L80 66 L114 84 L104 140 H56 Z' fill='#23435a'/>
+  <rect x='69' y='78' width='22' height='40' rx='8' fill='#18cfd0'/>
+  <rect x='44' y='86' width='16' height='50' rx='8' fill='#23435a'/>
+  <rect x='100' y='86' width='16' height='50' rx='8' fill='#23435a'/>
+  <rect x='54' y='136' width='22' height='42' rx='10' fill='#1e2d3a'/>
+  <rect x='84' y='136' width='22' height='42' rx='10' fill='#1e2d3a'/>
+  <rect x='48' y='174' width='32' height='18' rx='6' fill='#11181f'/>
+  <rect x='82' y='174' width='32' height='18' rx='6' fill='#11181f'/>
+  <path d='M104 88 L126 102 L114 122 L94 110 Z' fill='#ffb24b' fill-opacity='0.72'/>
+</svg>
