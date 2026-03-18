@@ -1,0 +1,18 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='220' height='260' viewBox='0 0 220 260'>
+  <defs>
+    <radialGradient id='core' cx='50%' cy='50%' r='50%'>
+      <stop offset='0%' stop-color='#d7ffff' stop-opacity='1'/>
+      <stop offset='45%' stop-color='#7cf8ff' stop-opacity='0.95'/>
+      <stop offset='100%' stop-color='#13e4d5' stop-opacity='0.05'/>
+    </radialGradient>
+    <linearGradient id='ring' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#9afcff'/>
+      <stop offset='100%' stop-color='#1df2d0'/>
+    </linearGradient>
+  </defs>
+  <ellipse cx='110' cy='120' rx='58' ry='78' fill='url(#core)'/>
+  <ellipse cx='110' cy='120' rx='78' ry='102' fill='none' stroke='url(#ring)' stroke-width='12' stroke-opacity='0.85'/>
+  <ellipse cx='110' cy='120' rx='95' ry='118' fill='none' stroke='#d7ffff' stroke-opacity='0.14' stroke-width='2'/>
+  <rect x='50' y='208' width='120' height='22' rx='11' fill='#0f2027' stroke='#7cf8ff' stroke-opacity='0.28' stroke-width='2'/>
+  <rect x='72' y='228' width='76' height='16' rx='8' fill='#081218'/>
+</svg>
