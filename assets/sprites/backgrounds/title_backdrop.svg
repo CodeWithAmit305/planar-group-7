@@ -1,0 +1,40 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='1920' height='1080' viewBox='0 0 1920 1080'>
+  <defs>
+    <linearGradient id='sky' x1='0' y1='0' x2='0' y2='1'>
+      <stop offset='0%' stop-color='#071017'/>
+      <stop offset='55%' stop-color='#0f1b25'/>
+      <stop offset='100%' stop-color='#020407'/>
+    </linearGradient>
+    <radialGradient id='moon' cx='50%' cy='40%' r='40%'>
+      <stop offset='0%' stop-color='#9bf5ff' stop-opacity='0.9'/>
+      <stop offset='100%' stop-color='#9bf5ff' stop-opacity='0'/>
+    </radialGradient>
+    <linearGradient id='forest' x1='0' y1='0' x2='0' y2='1'>
+      <stop offset='0%' stop-color='#08140f'/>
+      <stop offset='100%' stop-color='#020705'/>
+    </linearGradient>
+  </defs>
+  <rect width='1920' height='1080' fill='url(#sky)'/>
+  <ellipse cx='1520' cy='180' rx='260' ry='160' fill='url(#moon)'/>
+  <rect x='0' y='770' width='1920' height='310' fill='url(#forest)'/>
+  <g fill='#040907'>
+    <path d='M40 1080 L120 650 L210 1080 Z'/>
+    <path d='M180 1080 L260 620 L350 1080 Z'/>
+    <path d='M360 1080 L450 610 L540 1080 Z'/>
+    <path d='M580 1080 L660 660 L760 1080 Z'/>
+    <path d='M1260 1080 L1360 600 L1460 1080 Z'/>
+    <path d='M1440 1080 L1540 670 L1650 1080 Z'/>
+    <path d='M1610 1080 L1705 640 L1810 1080 Z'/>
+  </g>
+  <g opacity='0.9'>
+    <rect x='890' y='510' width='360' height='210' rx='18' fill='#081218' stroke='#7cf8ff' stroke-opacity='0.22' stroke-width='3'/>
+    <rect x='930' y='470' width='280' height='70' rx='14' fill='#102431' stroke='#1df2d0' stroke-opacity='0.24' stroke-width='2'/>
+    <rect x='1015' y='390' width='110' height='110' rx='12' fill='#0b2029' stroke='#b4fdff' stroke-opacity='0.3' stroke-width='3'/>
+    <rect x='1010' y='405' width='120' height='12' rx='6' fill='#1df2d0' fill-opacity='0.55'/>
+  </g>
+  <g opacity='0.12' stroke='#7cf8ff' stroke-width='1'>
+    <path d='M0 150 H1920'/>
+    <path d='M0 320 H1920'/>
+    <path d='M0 610 H1920'/>
+  </g>
+</svg>
